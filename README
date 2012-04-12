@@ -1,0 +1,9 @@
+Simple CakePhp 2.x Plugin for creating encrypted mailto links
+
+Steps:
+1. Add the rot13.js file in webroot (can be added via view element)
+
+2. Use the view helper where you want to create the link
+
+Helpful links:
+http://book.cakephp.org/2.0/en/plugins.html
